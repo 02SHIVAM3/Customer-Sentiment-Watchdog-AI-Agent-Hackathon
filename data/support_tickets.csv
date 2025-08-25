@@ -1,0 +1,11 @@
+id,timestamp,message
+1,2025-08-24T09:00:00Z,"I can’t log in to my account"
+2,2025-08-24T09:01:00Z,"The payment keeps failing again and again"
+3,2025-08-24T09:02:00Z,"Love how smooth the new UI is!"
+4,2025-08-24T09:03:00Z,"Why is shipping so expensive??"
+5,2025-08-24T09:04:00Z,"Great support from the team, thanks!"
+6,2025-08-24T09:05:00Z,"This is the 3rd time my payment failed today"
+7,2025-08-24T09:06:00Z,"Your app keeps crashing on checkout"
+8,2025-08-24T09:07:00Z,"Amazing onboarding flow—super quick 🎉"
+9,2025-08-24T09:08:00Z,"Still waiting for OTP... what’s going on?"
+10,2025-08-24T09:09:00Z,"Payment gateway error code 500 again"
